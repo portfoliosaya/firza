@@ -42,7 +42,7 @@ let backButton = document.getElementById("back");
 vol.volume = 0;
 
 function goBack() {
-  window.location.href = "/index.html#portfolio";
+  window.location.href = "/firzaportfolio/index.html#portfolio";
 }
 
 if (location.reload) {
